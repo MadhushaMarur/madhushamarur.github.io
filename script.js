@@ -40,7 +40,7 @@ window.home = [
     Location: "Atlanta, Georgia, USA",
     AboutTitle: "About Me",
     Image: {
-      Src: "./assets/infy_logo.jpg",
+      Src: "./assets/Madhusha-Profile.jpg",
       Alt: "Madhusha Marur",
     },
    Paragraphs: `
